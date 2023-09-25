@@ -6,14 +6,26 @@
        alt="snake" /></a>
 </div>
 
-- 🌱 I’m currently learning **Fullstack develope and korean language**
+<h4 align="center">Nobody said it was easy</h4>
 
-- 👨‍💻 All of my projects are available at [github.com/loveradrian28](github.com/loveradrian28)
+<h3>About me</h3>
 
-- 📫 How to reach me **adrianelovera@gmail.com**
+I always have this dream of merge software develope with audiovisual content, and I just started to reach it! 
+
+- 👨‍💻 Learning software develope in @4geeksAcademy
+- 🌱 I’m currently learning **korean language**
+- 📫 You may reach me at **adrianelovera@gmail.com**
+
+<h3>Github Analytics</h3>
 
 [![Loveradrian28's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveradrian28&show_icons=true&theme=radical)](https://github.com/loveradrian28/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loveradrian28&show_icons=true&theme=radical)](https://github.com/loveradrian28/github-readme-stats)
+
+<h3>What I do when I need a break from studying</h3>
+
+-Some music of interest: https://www.youtube.com/watch?v=89_KXT5ztTU&list=RD89_KXT5ztTU&start_radio=1&ab_channel=JimmySax
+
+-Currenly listening to: https://www.youtube.com/watch?v=PT9Z9XL7YqI&ab_channel=Mensajesparasanar
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
