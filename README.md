@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **adrianelovera@gmail.com**
 
-[![Loveradrian28's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveradrian28)](https://github.com/loveradrian28/github-readme-stats)
+[![Loveradrian28's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveradrian28)](https://github.com/loveradrian28/github-readme-stats&theme=dark)
 
 
 <h3 align="left">Languages and Tools:</h3>
