@@ -13,6 +13,7 @@
 - 📫 How to reach me **adrianelovera@gmail.com**
 
 [![Loveradrian28's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=loveradrian28&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/loveradrian28/github-readme-stats#gh-dark-mode-only)
+[![Loveradrian28's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=loveradrian28&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/loveradrian28/github-readme-stats#gh-light-mode-only)
 
 
 <h3 align="left">Languages and Tools:</h3>
