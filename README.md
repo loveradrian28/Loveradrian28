@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Adrian Lovera</h1>
-<h3 align="center">Softward Developer and a student of the life</h3>
+<h3 align="center">Software Developer and a student of the life</h3>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
