@@ -10,7 +10,8 @@
 
 <h3>About me</h3>
 
-![Github](https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=White&link=left)
+![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=White&link=left
+)
 
 - 👨‍💻 Learning software develope in @4geeksAcademy
 - 🌱 I’m currently learning **korean language**
