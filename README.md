@@ -1,5 +1,7 @@
 <h1 align="center">Welcome, I'm Adrian Lovera 🦉</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer with experience in JavaScript, React, Python, Flask
+and SQL. Focused on continuous learning and challenges that lead me to
+improve myself. With great motivation for problem solving and teamwork.</h3>
 
 
 
