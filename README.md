@@ -1,6 +1,8 @@
 <h1 align="center">Welcome, I'm Adrian Lovera</h1>
 <h3 align="center">Software Developer and a student of the life</h3>
 
+<h2>Languages and Tools</h2>
+
 <h3>Front-End</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
