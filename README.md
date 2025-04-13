@@ -1,5 +1,7 @@
-<h1 align="center">Welcome, I'm Adrian Lovera</h1>
-<h3 align="center">Software Developer and a student of the life</h3>
+<h1 align="center">Welcome, I'm Adrian Lovera 🦉</h1>
+<h3 align="center">Full Stack Developer</h3>
+
+
 
 <h2>Languages and Tools</h2>
 
@@ -32,7 +34,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 👨‍💻 Learning software develope in @4geeksAcademy
 - 🌱 I’m currently learning **korean language**
 - 📫 You may reach me at **adrianelovera@gmail.com**
 
