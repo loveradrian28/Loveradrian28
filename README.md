@@ -36,21 +36,17 @@ improve myself. With great motivation for problem solving and teamwork 🤖.</h3
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h3>You may reach me at</h3>
+<h3>You may reach me at 📫</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianelovera@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loveradrian28/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianelovera@gmail.com)
+
 
 <h3>Github Analytics</h3>
 
 [![Loveradrian28's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveradrian28&show_icons=true&theme=radical)](https://github.com/loveradrian28/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loveradrian28&show_icons=true&theme=radical)](https://github.com/loveradrian28/github-readme-stats)
 
-<h3>What I do when I need a break from studying</h3>
-
--Some music of interest: https://www.youtube.com/watch?v=89_KXT5ztTU&list=RD89_KXT5ztTU&start_radio=1&ab_channel=JimmySax
-
--Currenly listening to: https://www.youtube.com/watch?v=PT9Z9XL7YqI&ab_channel=Mensajesparasanar
 
 
 
