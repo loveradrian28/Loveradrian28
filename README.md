@@ -10,8 +10,7 @@
 
 <h3>About me</h3>
 
-[I always have this dream of merge software develope with audiovisual content, and I just started to reach it! ](https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=White&link=left
-)
+(https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=White&link=left)
 
 - 👨‍💻 Learning software develope in @4geeksAcademy
 - 🌱 I’m currently learning **korean language**
