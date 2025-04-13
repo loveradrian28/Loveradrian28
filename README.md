@@ -1,13 +1,13 @@
 <h1 align="center">Welcome, I'm Adrian Lovera 🦉</h1>
 <h3 align="center">Full Stack Developer with experience in JavaScript, React, Python, Flask
-and SQL. Focused on continuous learning and challenges that lead me to
-improve myself. With great motivation for problem solving and teamwork.</h3>
-
+and SQL 📚. Focused on continuous learning and challenges that lead me to
+improve myself. With great motivation for problem solving and teamwork 🤖.</h3>
+<h3 align="center">Always wishing for make a difference with my voice and my work 🚀.</h3>
 
 
 <h2>Languages and Tools</h2>
 
-<h3>Front-End</h3>
+<h3>Front-End 🖥️</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -19,25 +19,27 @@ improve myself. With great motivation for problem solving and teamwork.</h3>
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
 
-<h3>Back-End</h3>
+<h3>Back-End 🏢</h3>
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-FF6C37?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<h3>DataBase</h3>
+<h3>DataBase 📊</h3>
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3>Version control</h3>
+<h3>Version control 💾</h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🌱 I’m currently learning **korean language**
-- 📫 You may reach me at **adrianelovera@gmail.com**
+<h3>You may reach me at</h3>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianelovera@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loveradrian28/)
 
 <h3>Github Analytics</h3>
 
